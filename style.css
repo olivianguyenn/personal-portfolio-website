@@ -343,8 +343,8 @@ section {
 }
 
 article {
-    display: flex;
-    width: 10rem;
+    display: block;
+    width: 100%;
     justify-content: space-around;
     gap: 0.5rem;
 }
